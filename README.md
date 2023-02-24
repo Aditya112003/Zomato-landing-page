@@ -1,2 +1,2 @@
 # Zomato-landing-page
-<img src= "Zomato_overview">
+<img src= "Zomato_overview.png">
